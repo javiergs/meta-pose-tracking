@@ -1,5 +1,10 @@
 # Meta Pose Tracking
 
+![Meta Quest](https://img.shields.io/badge/Meta-Quest-0467DF)
+![Java 21+](https://img.shields.io/badge/Java-21%2B-blue)
+![MQTT](https://img.shields.io/badge/MQTT-Streaming-660066)
+[![Downloads](https://img.shields.io/badge/Download-Applications-green)](https://github.com/javiergs/meta-pose-tracking/tree/main/legacy)
+
 Meta Quest pose tracking and real-time desktop visualization using MQTT.
 
 The Meta Quest application streams spatial tracking data; the Java desktop application receives those messages and displays a 2D representation of the tracked body pose.
@@ -15,7 +20,7 @@ The Meta Quest application streams spatial tracking data; the Java desktop appli
 
 The original application files are available in the [legacy directory](legacy/): [Meta Quest APK](legacy/TrackerAllDevices.apk) and [Java JAR](legacy/vero-MetaQuest-10.jar).
 
-See [GitHub Releases](https://github.com/javiergs/meta-pose-tracking/releases) for versioned distributions when available. The original binaries are experimental and have not yet been validated together as a release.
+See [GitHub Releases](https://github.com/javiergs/meta-pose-tracking/releases) for versioned distributions when available.
 
 ## Getting started
 
