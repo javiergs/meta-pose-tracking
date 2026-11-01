@@ -20,13 +20,3 @@ See [GitHub Releases](https://github.com/javiergs/meta-pose-tracking/releases) f
 ## Getting started
 
 Follow the [installation guide](docs/installation.md), then consult [MQTT configuration](docs/mqtt.md) and [troubleshooting](docs/troubleshooting.md).
-
-## Source code
-
-Java desktop visualizer source: [jgs-lab/src-meta-pose-tracking](https://github.com/jgs-lab/src-meta-pose-tracking) (restricted access may apply). The Unity project used to build the APK has not yet been identified in the source repository.
-
-## Background
-
-Developed in the context of the [CALHCI ASU25-ROVER](https://github.com/calhci/ASU25-ROVER) research project and reused in [ASU26-ROVER](https://github.com/calhci/ASU26-ROVER).
-
-This is experimental research software. The documented APK broker differs from the broker currently configured in the Java source; check the [MQTT guide](docs/mqtt.md) before using both applications together.
